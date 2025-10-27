@@ -1,4 +1,4 @@
-# Hi, I'm Doug 👋
+# Hi, I'm Douglas 👋
 Electrical Engineer exploring Quantum Computing, Embedded Systems, and Control Automation.
 
 🔬 Interests: Qiskit, Python, VHDL, Control Theory  
